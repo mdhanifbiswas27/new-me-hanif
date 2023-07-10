@@ -134,4 +134,81 @@ header {
     height: 24px;
     color: #16D887;
 }
+
 /* My plan style */
+.my-plan {
+    width: 1160px;
+    margin: auto;
+    text-align: center;
+}
+
+.plan-container {
+    display: flex;
+    justify-content: space-around;
+    margin: 40px auto;
+}
+
+.my-plan h2 {
+    color: #151414;
+    font-size: 40px;
+    font-weight: 700;
+}
+
+.plan-photo {
+    width: 92.958px;
+    height: 92.958px;
+}
+
+.plan-title {
+    color: #151414;
+    text-align: center;
+    font-size: 30px;
+    font-weight: 700;
+}
+
+.plan-details {
+    color: #737272;
+    text-align: center;
+    font-size: 25px;
+    font-weight: 500;
+}
+
+/* wathch */
+
+.jhamela {
+    width: 1160px;
+    margin: 80px auto;
+}
+
+.shadoe-images {
+    display: flex;
+    position: relative;
+}
+
+.images-watch {}
+
+.gradient-color {
+    position: absolute;
+}
+
+.lekha-shob {
+    position: absolute;
+    padding: 64px;
+}
+
+.gorir-lekha {
+    width: 459px;
+    color: #FFF;
+    font-size: 40px;
+    font-weight: 700;
+    margin-bottom: 20px;
+}
+
+.gorir-btn {
+    width: 160px;
+    height: 64px;
+    border-radius: 5px;
+    background: #FFF;
+}
+
+/* footer section */
